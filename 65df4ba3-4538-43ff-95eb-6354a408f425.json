@@ -1,0 +1,139 @@
+{
+  "TechProfile": {
+    "email": "jpereyra.intermex.com@post.com",
+    "locale": "en-us",
+    "country": "US",
+    "contactPointTopicSetting": "OptInExplicit",
+    "isInstructor": false,
+    "isChallengeAdmin": false,
+    "isQnaModerator": false,
+    "source": "docs",
+    "authenticationModes": [
+      {
+        "id": "87ea22a5-99f3-462e-b081-4ad5eba40740",
+        "type": "AAD",
+        "tenantId": "3f8d78d0-aa9a-47a4-b5a0-d4fd47657298",
+        "upn": "jpereyra@intermex.com",
+        "oid": "87ea22a5-99f3-462e-b081-4ad5eba40740",
+        "dateAcceptedPrivacyNotice": "2025-08-03T23:24:16.8076097+00:00",
+        "dateAdded": "2025-08-03T23:24:16.8076097+00:00"
+      },
+      {
+        "id": "00037FFEA3D20C72",
+        "type": "MSA",
+        "tenantId": "9188040d-6c67-4c5b-b112-36a304b66dad",
+        "upn": "hogan1854@wilkes.net",
+        "oid": "00000000-0000-0000-f66c-521531d2ba20",
+        "dateAcceptedPrivacyNotice": "2025-08-03T23:26:53.8440922+00:00",
+        "dateAdded": "2025-08-03T23:26:53.8440925+00:00"
+      },
+      {
+        "id": "18543911-49e4-489a-9d15-fa961359cae5",
+        "type": "AAD",
+        "tenantId": "c3c8df23-2e11-4ef8-ae8d-ad4f90612ac0",
+        "upn": "SRasheed969@PPPSardam.sabis.net",
+        "oid": "18543911-49e4-489a-9d15-fa961359cae5",
+        "dateAcceptedPrivacyNotice": "2025-08-03T23:28:37.2250012+00:00",
+        "dateAdded": "2025-08-03T23:28:37.225002+00:00"
+      }
+    ],
+    "transcriptSettings": {
+      "publicLink": {
+        "showModules": true,
+        "showLegalName": true,
+        "showMCID": true,
+        "showContactEmail": true
+      },
+      "print": {
+        "showModules": true,
+        "showLegalName": true,
+        "showMCID": true,
+        "showContactEmail": true
+      }
+    },
+    "certificationSettings": {
+      "print": {
+        "showLegalName": true,
+        "showMCID": true,
+        "showContactEmail": true
+      }
+    },
+    "qnaEmailPreferences": {
+      "allEmail": true,
+      "autoFollowAsked": true,
+      "autoFollowAnswered": true,
+      "autoFollowCommented": true,
+      "autoFollowTagged": true,
+      "emailEventSettings": {
+        "newMention": "instant",
+        "newModeration": "instant",
+        "answerPosted": "instant",
+        "answerAccepted": "instant",
+        "commentPosted": "instant",
+        "newPrivateMessage": "instant",
+        "questionUpdated": "instant",
+        "questionPosted": "instant",
+        "unansweredQuestions": "daily",
+        "newFollower": "instant",
+        "answerUpdated": "instant"
+      }
+    },
+    "sharingId": "7CBE32480A9D8814",
+    "legalName": {
+      "first": "Jose",
+      "middle": "",
+      "last": "Pereyra"
+    },
+    "userId": "65df4ba3-4538-43ff-95eb-6354a408f425",
+    "userName": "JosePereyra-8060",
+    "displayName": "Jose Pereyra",
+    "isPrivate": false,
+    "affiliations": [],
+    "followerCount": 0,
+    "followingCount": 0,
+    "answersAccepted": 0,
+    "reputationPoints": 0,
+    "createdOn": "8/3/2025 11:24:16 PM"
+  },
+  "Attachments": true,
+  "XP": {
+    "xp": {
+      "docsId": "65df4ba3-4538-43ff-95eb-6354a408f425",
+      "totalXp": 0,
+      "currentLevel": 1,
+      "currentLevelLow": 0,
+      "currentLevelHigh": 1799,
+      "currentLevelPointsEarned": 0,
+      "nextLevel": 2,
+      "pointsUntilNextLevel": 1800,
+      "achievementCategories": {
+        "Unknown": 0,
+        "Modules": 0,
+        "Courses": 0,
+        "Qna": 0,
+        "Challenges": 0,
+        "Events": 0,
+        "LearningPaths": 0,
+        "Plans": 0,
+        "Special": 0
+      }
+    },
+    "achievements": []
+  },
+  "Progress": null,
+  "NextSteps": null,
+  "VerifiableCredentials": {
+    "docsId": "65df4ba3-4538-43ff-95eb-6354a408f425",
+    "userCredentials": []
+  },
+  "Q&A": {
+    "docsId": "65df4ba3-4538-43ff-95eb-6354a408f425",
+    "questions": [],
+    "answers": [],
+    "comments": []
+  },
+  "Lists": null,
+  "Assessments": null,
+  "Certifications": null,
+  "SkillAssessment": null
+}
